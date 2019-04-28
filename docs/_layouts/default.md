@@ -13,5 +13,7 @@
 <body>
   Layout content
   {{ content }}
+  
+  <script src="js/base.js"></script>
 </body>
 </html>
