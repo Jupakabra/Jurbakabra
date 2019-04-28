@@ -8,7 +8,7 @@
 
   <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 
-  <link href="styles/base.css" rel="stylesheet">
+  <link href="assets/base.css" rel="stylesheet">
 </head>
 <body>
   Layout content
