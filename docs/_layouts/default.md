@@ -9,6 +9,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 
   <link href="assets/base.css" rel="stylesheet">
+  <link href="styles/direct.css" rel="stylesheet">
 </head>
 <body>
   Layout content
